@@ -10,6 +10,5 @@ def sub(a, b):
 
 
 
-summ(1, 1)
-sub(1, 1)
+
 
